@@ -73,6 +73,9 @@ what data is being gathered. One example of this legal issue being potentially v
 
 ## Group Member Countries
 Natalie Mercer - South Korea
+
 Daniel Royer - China
+
 Branson Stickney - Japan
+
 Justin Santos - European Union
